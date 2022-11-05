@@ -1,0 +1,29 @@
+{
+    "trips" :
+    [
+	{
+		"title": "2 Night Stay In Naran",
+		"price": "20000",
+		"id":"1",
+		"loc":"punjab"
+	},
+	{
+		"title": "3 Night Stay In Lahore",
+		"price": "20000",
+		"id":"2",
+		"loc":"punjab"
+	},
+	{
+		"title": "7 Night Stay In Islamabad",
+		"price": "20000",
+		"id":"3",
+		"loc":"punjab"
+	},
+	{
+		"title": "4 Night Stay In Skardu",
+		"price": "20000",
+		"id":"4",
+		"loc":"KPK"
+	}
+    ]
+}

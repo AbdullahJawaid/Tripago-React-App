@@ -1,0 +1,6 @@
+{
+    "files.autoSave": "off",
+    "emmet.includeLanguages": {
+        "javascript": "javascriptreact"
+    }
+}
